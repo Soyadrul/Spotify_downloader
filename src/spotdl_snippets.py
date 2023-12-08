@@ -11,7 +11,7 @@ from telegram import Update, InputFile, InputMediaAudio
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 
-TOKEN = "6547933909:AAG8KZCBuwZskYKrSEmUv5x-3DSTPKteymI"
+TOKEN = ""
 BOT_USERNAME: Final = "@spotify_song_downloader_bot"
 
 START_COMMAND_STRING: Final = "start"
